@@ -4,6 +4,20 @@ A county-level analytics project that identifies promising real estate investmen
 
 The project combines publicly available datasets, statistical standardization, weighted index construction, and an interactive Power BI dashboard to help compare Ohio's 88 counties from an investment perspective.
 
+<table>
+<tr>
+<td align="center"><b>Dashboard Overview</b></td>
+<td align="center"><b>Opportunity Index Map</b></td>
+<td align="center"><b>County Explorer</b></td>
+</tr>
+
+<tr>
+<td><img src="media/dashboard-overview.jpg" width="100%"></td>
+<td><img src="media/opportunity-index-heat-map.png" width="100%"></td>
+<td><img src="media/county-explorer.jpg" width="100%"></td>
+</tr>
+</table>
+
 ![Dashboard Overview](media/dashboard-overview.jpg)
 
 ---
