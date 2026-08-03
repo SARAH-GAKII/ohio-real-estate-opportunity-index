@@ -18,8 +18,6 @@ The project combines publicly available datasets, statistical standardization, w
 </tr>
 </table>
 
-![Dashboard Overview](media/dashboard-overview.jpg)
-
 ---
 
 ## Project Overview
